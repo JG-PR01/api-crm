@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose ACTUALIZADO",
+      "empresa": "EleSongs",
+      "email": "correo@correo.com",
+      "telefono": "465465464",
+      "notas": "Nuevo cliente Jose",
+      "id": 1
+    },
+    {
+      "nombre": "Ryan ACTUALIZADO",
+      "empresa": "Cumat",
+      "email": "correo@corre.com",
+      "telefono": "4564646",
+      "notas": "Hola Mundo!",
+      "id": 2
+    },
+    {
+      "nombre": "Barcolito",
+      "empresa": "Granja de Zenon",
+      "email": "correo@corre.com",
+      "telefono": "6546546",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Gregorio Jose",
+      "empresa": "SkyBlue",
+      "email": "correo@correo.com",
+      "telefono": "4656456",
+      "notas": "Empresa Azul Cielo",
+      "id": 9
+    }
+  ]
+}
